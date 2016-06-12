@@ -1,19 +1,8 @@
 # dataProduct
 
 This repository contents is linked with Course projet of Devloping Data product lesson from coursera
+It is about slidify utilisation.
 
-## Exercice 1 - Shiny
+Original markdown file is index.rmd
 
-You will find :
-•usual files for shiny application (ui.r and server.r)
-•content files in JSON format used by the application. If you don't copy or delete these files, application should download them automatically from world wide web
-
-Shiny application is all about a card game called Magic the gathering. It allows you to compare sets of cards 
-
-PS : don't forget to set up directory when you run shiny command runApp()
-
-## Exercice 2 - Slidify
-
-Slidify files are all in respository "Presentation" Launch the presentation with index.html 
-
-Hope you will enjoy
+All other files of this repository have been created by Slidify 
