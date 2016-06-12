@@ -1,0 +1,12 @@
+base
+knitr
+dplyr
+DT
+httr
+XML
+plyr
+jsonlite
+shiny
+ggplot2
+slidify
+rsconnect
